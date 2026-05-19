@@ -1,0 +1,7 @@
+chromadb>=0.4.0
+sentence-transformers>=2.2.0
+networkx>=3.0
+langchain>=0.1.0
+ollama>=0.0.1
+openai>=1.0.0
+numpy>=1.23.0
